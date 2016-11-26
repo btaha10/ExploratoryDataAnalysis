@@ -3,7 +3,7 @@
 hpower <- readDataSet()
 
 # setup png file
-png(file="plot3.png", width = 450, height = 450)
+png(file="plot3.png", width = 480, height = 480)
 
 # plot master graph
 par(mfrow=c(1,1))

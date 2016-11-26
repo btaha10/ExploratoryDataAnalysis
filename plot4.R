@@ -3,7 +3,7 @@
 hpower <- readDataSet()
 
 # setup png file
-png(file="plot4.png", width = 450, height = 450)
+png(file="plot4.png", width = 480, height = 480)
 
 # setup frame for 2x2 plots with appropriate margins
 par(mfrow=c(2,2), mar=c(4,4,2,1))
